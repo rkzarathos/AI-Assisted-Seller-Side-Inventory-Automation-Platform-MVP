@@ -1,4 +1,4 @@
-# AI Assisted Seller-Side Inventory Automation Platform MVP
+# AI Assisted Seller-Side Inventory Management Platform MVP
 
 A dependency-light web application for sellers who need to capture inventory, price assets, create sale transactions, collect payment, track shipment status, and export operating reports from one mobile-friendly interface.
 
