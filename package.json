@@ -1,0 +1,13 @@
+{
+  "name": "inventory-mobile-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^8.0.7",
+    "stripe": "^18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
