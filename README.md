@@ -126,4 +126,4 @@ Core inventory and transaction tracking works without OpenAI, Stripe, or SMTP. T
 
 ## MVP Notes
 
-This is a local/single-seller MVP. It does not currently include authentication, role-based access control, a hosted database, or automated tests. Production deployment should add those controls before handling real customer data at scale.
+This is a local/single-seller MVP. Future developments include authentication, role-based access control, and a hosted database before handling real customer data at scale.
